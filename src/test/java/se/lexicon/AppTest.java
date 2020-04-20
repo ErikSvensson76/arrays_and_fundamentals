@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
  */
 public class AppTest 
 {
-
+    //This is a comment
     @Test
     public void given_two_numbers_sum_should_return_correct_value(){
         double number1 = 3.7;
